@@ -22,3 +22,26 @@ img {
 p.citation {
     text-align: left;
 }
+
+button {
+    background-color: #3557de;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+button:active {
+    background-color:#0f2479;
+    transform: translateY(3px);
+}
+
+div.helloworld {
+    text-align: center;
+}
