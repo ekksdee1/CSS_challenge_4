@@ -1,0 +1,24 @@
+h1 {
+    color:  rgba(10, 2, 60);
+    font-style: bold;
+    font-size: 56px;
+}
+
+p {
+    color: rgba(10, 8, 48, 0.75);
+    text-align: right;
+    font-style: italic;
+    font-size: 20px;
+}
+
+img {
+    width: 50%;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.citation {
+    text-align: left;
+}
